@@ -1,0 +1,29 @@
+.aimeos .input-group {
+	width: 50%;
+}
+
+/* Mini basket */
+.basket-mini {
+	background-color: rgb(32, 212, 62);
+	color: #555;
+}
+
+/* Product list, stage section */
+.catalog-stage {
+	color: rgb(32, 212, 62);
+	clear: both;
+}
+
+.catalog-filter-attribute > h2,
+.catalog-filter-supplier > h2 {
+	border-bottom: solid 1px rgb(32, 212, 62);
+	text-align: center;
+	font-size: 100%;
+	cursor: pointer;
+	width: 33.33%;
+	float: left;
+	display: block;
+	padding: 0.5em;
+	margin: 0 0 1em 0;
+}
+
